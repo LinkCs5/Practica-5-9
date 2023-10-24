@@ -1,0 +1,10 @@
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 5\Actividad 5\bin\Debug\Actividad 5.exe.config
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 5\Actividad 5\bin\Debug\Actividad 5.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 5\Actividad 5\bin\Debug\Actividad 5.pdb
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 5\Actividad 5\obj\Debug\Actividad 5.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 5\Actividad 5\obj\Debug\Actividad_5.Form1.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 5\Actividad 5\obj\Debug\Actividad_5.Properties.Resources.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 5\Actividad 5\obj\Debug\Actividad 5.csproj.GenerateResource.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 5\Actividad 5\obj\Debug\Actividad 5.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 5\Actividad 5\obj\Debug\Actividad 5.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 5\Actividad 5\obj\Debug\Actividad 5.pdb
